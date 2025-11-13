@@ -1,7 +1,4 @@
-Non-mewtonian cat
-===
 
-A game made for the [js13k 2025](https://js13kgames.com/) game jam.
 
 ## Build
 
